@@ -1,0 +1,414 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments against bowing at the name of Iesvs proving the unlawfullnesse and injustice of imposing that posture in Gods worship, which is neither injoyned by word of God, nor by the canon of the Church ... / composed abovt five years since by a reverend minister of the city of London.</title>
+            <author>Reverend minister of the city of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65972</idno>
+            <idno type="STC">Wing W2083</idno>
+            <idno type="STC">ESTC R24555</idno>
+            <idno type="EEBO-CITATION">08246866</idno>
+            <idno type="OCLC">ocm 08246866</idno>
+            <idno type="VID">41163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1244:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments against bowing at the name of Iesvs proving the unlawfullnesse and injustice of imposing that posture in Gods worship, which is neither injoyned by word of God, nor by the canon of the Church ... / composed abovt five years since by a reverend minister of the city of London.</title>
+                  <author>Reverend minister of the city of London.</author>
+                  <author>Wickins, William, 1614-1699.</author>
+               </titleStmt>
+               <extent>14 [i.e. 18] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Published in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to William Wickins, probably erroneously.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Posture in worship.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41163:1"/>
+            <pb facs="tcp:41163:1"/>
+            <p>ARGVMENTS AGAINST BOVVING AT THE <hi>NAME</hi> OF IESVS.</p>
+            <p>COMPOSED ABOVT five yeares ſince, BY A REVEREND MINISTER OF THE CITY OF <hi>LONDON</hi> FOR his own defence.</p>
+            <p>Proving the unlawfullneſſe and injuſtice of impoſing that poſture in <hi>Gods worſhip,</hi> which is neither injoyned by the Word of <hi>God</hi> nor by the Ca<g ref="char:EOLhyphen"/>non of the Church (though pretence be made by ſome, to be commanded from both) as appeares chiefly in the firſt and laſt Arguments.</p>
+            <q>
+               <bibl>
+                  <hi>Revelation 22.18, 19.</hi>
+               </bibl>
+               <p>For I teſtifie untoe very man that heareth the words of the propheſie of this Book, If any man adde unto theſe things, <hi>God</hi> ſhall adde unto him the plagues that are written in this Book.</p>
+               <p>And if any man ſhall take away from the words of the Book of this Propheſie, <hi>God</hi> ſhall take away his part out of the Book of life, and out of the holy City, and from the things which are written in this Booke.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 14.26.</hi>
+               </bibl>
+               <p>Let all things be done unto Edifying.</p>
+            </q>
+            <p>Publiſhed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41163:2"/>
+            <pb n="1" facs="tcp:41163:2" rendition="simple:additions"/>
+            <head>ARGVMENTS AGAINST BOVVING AT THE <hi>NAME</hi> OF IESVS.</head>
+            <div n="1" type="argument">
+               <head>ARGUMENT. I.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>LL worſhip of GOD that is taught by the commandements of men, and not preſcribed by GOD himſelfe is will-worſhip, and ſimply unlawfull.</hi>
+               </p>
+               <p>
+                  <hi>But ſuch is this bowing</hi> at <hi>the Name of</hi> Ieſus.</p>
+               <p>Ergo <hi>will-worſhip and ſimply unlawfull.</hi>
+               </p>
+               <p>The Major Propoſition is from Heaven, and therfore greater then to be denyed, <hi>Eſa.</hi> 29.13. <hi>Col.</hi> 2.22. and elſewhere.</p>
+               <p>The Minor likewiſe I conceive to be evident, Becauſe there is no ſuch worſhip to <hi>Chriſt</hi> taught by <hi>God,</hi> or <hi>Chriſt</hi> himſelfe, as the bowing of the Body to him upon the mention, or ſounding of the Name <hi>Ieſus.</hi> As for that place <hi>Phil.</hi> 2.10. which ſome look upon as countenancing this worſhip; I conceive it doth not ſo much as look towards it. For Firſt it is here ſaid, not that <hi>at the Name of Jeſus,</hi>
+                  <pb n="2" facs="tcp:41163:3"/>but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>in the name of Ieſus every knee ſhall bow.</hi> The Propoſition <hi>iv, in,</hi> never (to my remembrance) noting the time when, (except it be in conſtruction with words, ſignifying time, as <hi>Mark</hi> 1.9. <hi>It came to paſſe in thoſe dayes,</hi> and ſuch like.) But very fre<g ref="char:EOLhyphen"/>quently the cauſe for, or through which, as <hi>Mark.</hi> 11.28. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: in what power, that is, by or through what power doſt thou theſe things; So <hi>Rom</hi> 7.23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, carrying me or leading me Captive in, that is, by the Law of ſin, beſides many other like inſtances: ſo that the name of <hi>Ieſus</hi> here meant muſt not be any name made of letters and ſillables, but of power, majeſty and terror: becauſe there muſt be found in this Name that, which muſt be that efficient cauſe of the ſujection here ſpoken of, that which muſt command this bowing the knee from all Creatures whatſoever, which of all li<g ref="char:EOLhyphen"/>terall names or titles that are given to <hi>Chriſt</hi> in the Scriptures, is leaſt of all intimated in that ſweet and gracious Name of <hi>Ieſus,</hi> a Saviour: what is there in that Name to compell or force the Devils to bow the knee unto him?</p>
+               <p>Secondly, neither is it here ſaid that, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not that <hi>at,</hi> or <hi>in</hi> the name <hi>Jeſus:</hi> but <hi>in the name (of) Ieſus every knee ſhall bow,</hi> as all tranſlators read i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Now any other name or title given to our Saviour in the Scripture, as <hi>Chriſt, Emanuel,</hi> &amp;c. may in better propriety of ſpeech be called the names of <hi>Ieſus,</hi> then <hi>Jeſus</hi> it ſelfe, to urge and ſay that <hi>Ieſus</hi> is the name of <hi>Ieſus,</hi> ſavours not the dialect of the Holy-Ghoſt.</p>
+               <p>Thirdly, That name of <hi>Ieſus</hi> here ſpoken of, wherein it is ſaid that <hi>every knee ſhall bow,</hi> is ſuch a name as was not given to <hi>Chriſt,</hi> till after his ſufferings; and at the time of his exaltation and ſitting down at the right hand of majeſty: for it is expreſly ſaid, to have bin given unto him by <hi>God</hi> (his Father) by way of reward or recompence, for that great ſervice he did unto him in that great abaſement and humiliation of himſelfe unto death: <hi>Wherfore</hi> (ſaith the Text) <hi>God hath exalted him, and given him a Name,</hi> verſe 9. namely for that obedi<g ref="char:EOLhyphen"/>ence and humiliation of himſelfe, mentioned verſe 6, 7, 8. But the name <hi>Ieſus,</hi> we know was given unto him long before, at the time of his Circumciſion; therfore this is not the name that every <hi>knee ſhall bow at.</hi>
+               </p>
+               <p>Fourthly, If this worſhip of <hi>bowing at the name Ieſus</hi> were com<g ref="char:EOLhyphen"/>manded in this Scripture, then were it a ſinne and ſimply unlawfull to omit it at any time whenſoever it ſounds, which no man ever yet affirmed that I have heard of.</p>
+               <p>Fiftly, If bowing the body at the name <hi>Ieſus</hi> be enjoyned in this Text, by the ſame interpretation, the Confeſſing with the tongue
+<pb n="3" facs="tcp:41163:3"/>that <hi>Ieſus Chriſt is the Lord,</hi> muſt be injoyned alſo, and as altogether neceſſary as the other: for thoſe things which <hi>God</hi> hath joyned to<g ref="char:EOLhyphen"/>gether can no man put aſunder.</p>
+               <p>Sixtly, If this worſhip of <hi>Chriſt</hi> (of bowing to him) mentioned in this place be due unto him in relation to his Name <hi>Ieſus,</hi> or as he is a Saviour: how come the <hi>things under the earth</hi> (by which all in<g ref="char:EOLhyphen"/>terpreters that I know underſtand the Devils, except ſome Popiſh, that fiſh for Purgatory in the words.) How come the Divels (I ſaid) to be charged with men, touching the exhibiting of this reverence or adoration to <hi>Chriſt,</hi> who (we know) have neither part nor fel<g ref="char:EOLhyphen"/>lowſhip with them in that great and gratious buſineſſe of <hi>ſalvation?</hi>
+               </p>
+               <p>Seventhly, I doe not know any Orthodox or ancient interpreter, ſo to interpret the place.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> But perhaps it wilbe ſaid, <hi>Notwithſtanding, though this Scripture will not carry it, yet will it not follow that</hi> bowing at the, name of Jeſus <hi>ſhould be</hi> will-worſhip, <hi>becauſe bowing to his perſon being a preſcribed and un<g ref="char:EOLhyphen"/>queſtionable lawfull</hi> worſhip, <hi>it may be performed at any time: and ther<g ref="char:EOLhyphen"/>fore at ſuch a time as the name</hi> Jeſus <hi>is named, aſwell as at any other time: for election of a mans time when be will</hi> worſhip God, <hi>doth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot alter the nature of the</hi> worſhip; <hi>nor make it ever the more</hi> will-worſhip.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwere"/> To this I Anſwer, True election of time for the <hi>worſhip of God,</hi> or of <hi>Chriſt,</hi> in reſpect of Conveniencie, and freedome from diſtraction of buſineſſe: or in reſpect of any ſuch circumſtance as may really fur<g ref="char:EOLhyphen"/>ther or better the <hi>worſhip,</hi> hath no ſuch influence into it, as to alter or change the nature of it, becauſe ſuch a choyce of time is rather of <hi>Gods</hi> chuſing then of ours; for the Scriptures without, and the Law of Conſcience within, commands us to make choyce of ſuch time when we may ſerve and worſhip <hi>God</hi> after the beſt and holyeſt manner. But to rule the election of time, for giving any outward act of worſhip or adoration unto <hi>God,</hi> by any ſuch Circumſtance which hath no relation at all to this worſhip; (I meane to better it or further it in him that performs it,) but only that which is foun<g ref="char:EOLhyphen"/>ded on the device of men, I conceive to be an unlawfull election, and not to be made. As for example, for a man to make choyce of the time to bow himſelfe to <hi>God,</hi> when he ſtands before an Image, were ſimply unlawfull, becauſe he regulates the choyſe of his time by ſuch a Circumſtance as doth no way further him in that act of worſhip, but directly tends both to further the Idolater in his wick<g ref="char:EOLhyphen"/>ed opinion, who thinks he doth well to worſhip <hi>God,</hi> in an Image, and alſo to ſcandalize thoſe that are weake.</p>
+               <p>Therfore to chuſe a time to worſhip <hi>Chriſt</hi> when ſuch a certaine
+<pb n="4" facs="tcp:41163:4"/>name of his ſhal be preſented unto us, which makes indeed a repre<g ref="char:EOLhyphen"/>ſentation of him unto us, as an Image doth: but hath nothing more in it to further ſuch an act of adoration, then an Image hath, and hath in like manner bin abuſed as Images have, and is apt to cauſe the like offence, as bowing to God before an Image doth, is an un<g ref="char:EOLhyphen"/>lawfull election for the time of ſuch worſhip.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> If it be further replyed and ſayd,<hi>That the name</hi> Jeſus <hi>is of Divine Inſtitution: for the repreſentation of his perſon to the mind and ſpirit of a man, wheras the Image is purely humane: and beſides that there is an intima<g ref="char:EOLhyphen"/>tion of that ſalvation which comes by him, given out by the name</hi> Ieſus, <hi>which is no way intimated in an Image: and therfore that there is no Compa<g ref="char:EOLhyphen"/>riſon to he made between</hi> bowing at the name Ieſus, <hi>and before an Image.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwere"/> To this I Anſwere: Firſt, though there be ſome difference be<g ref="char:EOLhyphen"/>tween the name <hi>Ieſus,</hi> and an Image of <hi>Chriſt</hi> in reſpect of the <hi>inſtitu<g ref="char:EOLhyphen"/>tion,</hi> yet in reſpect of repreſentation made by either, there is none: for the Image repreſents to the mind that very ſame perſon (and no o<g ref="char:EOLhyphen"/>ther) which the name doth: ſo that if the worſhip be lawful in reſpect of the repreſentation ſimply, which is made by the name <hi>Ieſus,</hi> it wilbe as lawfull before the Image, becauſe as (I ſay) there is a repre<g ref="char:EOLhyphen"/>ſentation alſo of the ſame perſon.</p>
+               <p>Secondly, though the name <hi>Ieſus</hi> be of <hi>divine inſtitution</hi> for the repreſentation of the perſon, wherein the Image fayles, yet in reſpect of any outward <hi>adoration,</hi> to be giuen unto this repreſentation by that name, there is no more to be found of any <hi>divine inſtitution,</hi> for the name, then for the Image, ſo that to expreſſe an outward act of <hi>adoration</hi> upon the bare ſound or hearing of the name, having no more warrant from <hi>God</hi> then doing the like before an Image hath; it apparently follows, that they are both <hi>worſhips</hi> of the ſame na<g ref="char:EOLhyphen"/>ture, and one to have aſmuch in it of the will of Man as the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Thirdly, the name <hi>Ieſus</hi> being of <hi>divine inſtitution,</hi> which the Image is not: it is a greater ſinne any wayes to miſuſe it, either by obſcu<g ref="char:EOLhyphen"/>ring or perverting the intentions of <hi>God</hi> in it, or by multiplying our own upon it, then it is to abuſe an Image, which is but the device of mens heads, and the works of their hands.</p>
+               <p>Fourthly, however in reſpect of <hi>inſtitution,</hi> the name may ſeem more capable of <hi>adoration</hi> then the Image: yet ſince the name is not ſo apropriated to the perſon of <hi>Christ</hi> by <hi>divine inſtitution</hi> in reſpect of the letters and ſound of it, but that it is common to other perſons with him, and repreſent others to the <hi>mind</hi> as well as Him; whereas
+<pb n="5" facs="tcp:41163:4"/>the Image is wholly appropriated unto him, and repreſents no other to the mind but him alone; in this reſpect the Image ſeems to be the ſafer and better call to exhibite <hi>worſhip</hi> unto <hi>Chriſt,</hi> then the bare ſound of the <hi>name,</hi> becauſe it doth not give that certaine and diſtinct ſignification or repreſentation of the perſon to be <hi>worſhipped,</hi> which the Image doth. As <hi>Paul</hi> ſpeakes of the Trumpet, <hi>Cor.</hi> 1.14.8. <hi>If it give an uncertaine ſound, who ſhall prepare himſelfe to the battell?</hi> ſo this name <hi>Ieſus,</hi> giving only an uncertaine ſound or repreſentation, re<g ref="char:EOLhyphen"/>preſenting aſwell other perſons to the mind that are not to be wor<g ref="char:EOLhyphen"/>ſhipped, aſwell as him to whom the worſhip is due, it ſeems a very unfit ſignat for worſhip to be given unto it, yea in this reſpect which is moſt intrinſecall and eſſentiall to the point in hand, it comes ſhort of the Image.</p>
+               <p>Fifthly, (and Laſtly) wheras it is layd in the Objection, that there is in the name an intimation given of that <hi>ſalvation</hi> which comes to the world by him, which is not in the Image. To this I Anſwer Three things:</p>
+               <p>Firſt, That there is in the Crucifix more then an intimation gi<g ref="char:EOLhyphen"/>ven of that <hi>ſalvation</hi> that comes by him; there is a repreſentation of that <hi>death,</hi> and thoſe <hi>ſufferings</hi> by which that <hi>ſalvation</hi> was purchaſed and wrought.</p>
+               <p>Secondly, If that an intimation of the <hi>ſalvation</hi> that comes by <hi>Chriſt</hi> be a proper and ſufficient ground to found an act of <hi>adoration</hi> upon, then is the name and title of Saviour, the fitteſt ſummons for men of this Nation, who (generally) underſtand not the intimations, or ſignifications of Names in other Languages, but only in their own.</p>
+               <p>Laſtly, if that an intimation of <hi>ſalvation</hi> coming by <hi>Chriſt,</hi> were proper to build an act of outward <hi>worſhip</hi> or <hi>adoration</hi> upon; then this <hi>worſhip</hi> is rather to be given, when any ſuch ſentence is read, or ſpo<g ref="char:EOLhyphen"/>ken, which proſpicuouſly and fully informeth the mind and ſoule hereof, then at the mention of that Name <hi>Ieſus.</hi> As for example, upon the hearing of this or the like ſentences in Scripture, <hi>The Son of man come to ſeek &amp; ſave that which was loſt:</hi> as that Rom. 5.8. <hi>Whileſt we wer yet ſinners</hi> Chriſt <hi>died for us.</hi> Or that Io. 3. <hi>So God loved the world,</hi> &amp;c. in theſe and many the like ſayings, there is a full intimation or ſig<g ref="char:EOLhyphen"/>nification of that great <hi>ſalvation,</hi> that comes by <hi>Chriſt</hi> more then is the bare mention of the name <hi>Ieſus.</hi> By all which it evidently ap<g ref="char:EOLhyphen"/>peareth, that in reſpect of any lawfull or warrantable ground for an outward act of <hi>adoration,</hi> there is no more in the ſound or name <hi>Ieſus</hi> then in an Image.</p>
+            </div>
+            <pb n="6" facs="tcp:41163:5"/>
+            <div n="2" type="argument">
+               <head>The ſecond <hi>Argument.</hi>
+               </head>
+               <p>
+                  <hi>NO Command or invention of men, that ſuperinduceth any other uſe or device upon any the ſacred names or titles of</hi> God, <hi>beyond what himſelf hath declared in his Word, is to be received: But this Command of bowing doth this, it makes the name or title</hi> Jeſus, <hi>to ſerve for another purpoſe then</hi> God <hi>hath any where declared.</hi> Ergo <hi>ſuch a command is not to be received.</hi>
+               </p>
+               <p>The Major (I conceive) will not be denyed: Becauſe for men to meddle with any of the great and fearfull names of <hi>God,</hi> and to diſpoſe of them as they pleaſe, without expreſſe Authority from himſelfe, is preſumption of the higheſt magnitude.</p>
+               <p>The Minor likewiſe hath evidence enough to be beleeved, becauſe there is not the leaſt intimation in the Scripture that <hi>God</hi> ever in<g ref="char:EOLhyphen"/>tended that any ſuch uſe ſhould ever be made of the name <hi>Ieſus,</hi> as to ſummon men to bow their bodyes <hi>at the name</hi> or ſound of it.</p>
+            </div>
+            <div n="3" type="argument">
+               <head>ARGUMENT. 3.</head>
+               <p>
+                  <hi>THat practiſe which directly tendeth to revive an ancient Hereſie, or dangerous opinion in the Church (eſpecially having nothing in it to counterpoyce ſuch a danger) is not to be introduced or aſſented unto. But this practiſe of</hi> bowing at the name Ieſus, <hi>directly tendeth hereunto, and hath no<g ref="char:EOLhyphen"/>thing at all to counterpoyſe ſuch a danger: therfore it is not to be introduced or aſſented unto.</hi>
+               </p>
+               <p>The Major carryeth its own light with it.</p>
+               <p>The Minor is thus clearely proved; That which directly tendeth to induce men to think or beleeve that <hi>Ieſus</hi> and <hi>Chriſt</hi> are two dif<g ref="char:EOLhyphen"/>ferent perſons, and that <hi>Ieſus</hi> is more excellent then <hi>Chriſt,</hi> directly tendeth to revive an old and dangerous Hereſie (<hi>viz.</hi> that of <hi>Corin<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> and others, who held that <hi>Ieſus</hi> and <hi>Chriſt</hi> were two perſons: and the one greater then the other.) But this <hi>boweng at the name of</hi>
+                  <pb n="7" facs="tcp:41163:5"/>
+                  <hi>Ieſus,</hi> (other names being paſſed over without the like reverence done at the mention of them) directly tendeth to induce men to think, &amp;c. <hi>Ergo.</hi>
+               </p>
+               <p>The reaſon of the Minor is, becauſe reverence argueth excellency upon whomſoever its caſt or conferred: and where either it is de<g ref="char:EOLhyphen"/>nyed or not exhibited, it implyeth a perſon or condition of leſſe excellencie.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>ARGUMENT. 4.</head>
+               <p>
+                  <hi>ALl worſhip of God that is not grounded upon the Morall Law, is Adulterous worſhip, and not to be tendered or exhibited.</hi>
+               </p>
+               <p>
+                  <hi>But this bowing at the name</hi> Ieſus <hi>is a worſhip not founded upon the Morall Law.</hi> Ergo.</p>
+               <p>The Major I conceive unqueſtionable: Becauſe the worſhip of <hi>God</hi> being a Morall duty, (and that of the chiefeſt and higheſt ranke,) it can have no other rule or foundation, but the Morall Law: and the ſame Author, that hath power to exact a new worſhip, muſt have power alſo to make a new Law (or further it) becauſe there is no act (eſpecially Religious) juſtifiable, but by ſome rule: where by the rectitude or goodneſſe of it muſt be tryed and demonſtrated.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> If it be ſaid, <hi>This bowing is no worſhip, but a pious ceremony, or ſigne, or outward expreſſion of worſhip, or the like:</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwere."/> I Anſwer: to deny bowing the body unto <hi>God,</hi> to be truly and properly worſhip, is to overthrow the whole ſpecies or kind of that, which we call <hi>externall worſhip:</hi> for what outward act of the body is rather to be called <hi>worſhip,</hi> then bowing down the body; proſtra<g ref="char:EOLhyphen"/>tion happily, or falling flat on the ground, may be conceived a further degree of this <hi>worſhip:</hi> But if proſtration before <hi>God</hi> be <hi>worſhip</hi> pro<g ref="char:EOLhyphen"/>perly ſo called; then muſt bowing down of the body towards the earth unto him, be of the ſame kind of worſhip alſo: becauſe it is a degree or part of the ſame act.</p>
+               <p>Secondly, if bowing the knee to <hi>Chriſt</hi> be no worſhip of him, it muſt needs be a mocking of him, as it is ſaid of the Roman Souldiers (<hi>Mat</hi> 27.29.) <hi>They bowed their knees before him, and mocked him,</hi> &amp;c. he that boweth the knee to the <hi>Lord Chr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt,</hi> and do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h not intend to honour and worſhip him in it, doubtleſſe mocketh him thereby.</p>
+               <p>Thirdly, there is nothing more apparent from the Scripture, then that bowing the knee is worſhip (properly ſo called) yea the worſhip of <hi>God</hi> is often ſignified by bowing the knee before him, <hi>Iſa.</hi> 45.23. <hi>I have ſworne by myſelfe</hi> (ſaith <hi>God</hi>) <hi>that every knee ſhall hew unto me.</hi>
+               </p>
+               <pb n="8" facs="tcp:41163:6"/>
+               <p>The Minor is thus declared, That <hi>worſhip</hi> of <hi>God</hi> which is built upon an <hi>Eccleſiaſticall Constitution,</hi> is not founded upon the <hi>Moral Law</hi> But this <hi>worſhip</hi> of <hi>bowing</hi> is built upon an <hi>Eccleſiaſticall Conſtitution.</hi>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> &amp;c.</p>
+               <p>The Major I explicate and demonſtrate thus: Two Laws which are not ſubordinate (I meane w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a logicall ſubordination,) but contradiſtinguiſhed one againſt the other, cannot be together the ground of one and the ſame duty. But the <hi>Law Morall,</hi> and <hi>Law Ec<g ref="char:EOLhyphen"/>cleſiaſticall</hi> are Laws of a different kind, not ſubordinate, but contra<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtinguiſhed. <hi>Ergo,</hi> &amp;c.</p>
+               <p>The reaſon of the Minor is: Becauſe <hi>Ordinations,</hi> or <hi>Conſtitutions Eccleſiaſticall,</hi> reſpect matters of <hi>circumſtance,</hi> and things <hi>indifferent;</hi> the <hi>Morall Law</hi> only treateth of, and obligeth to things of abſolute <hi>neceſſity.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Objection."/> If it be here Objected and ſaid though, <hi>The ſubject matter of Eccle<g ref="char:EOLhyphen"/>ſiasticall Laws and Conſtittuions be (in the generall) matters of indifferencie and decencie, about the worſhip of God: yet if ſuch Conſtitutions take, in any part of the Morality of it this maketh it not will worſhip, becauſe it is the will of man it ſhould be done, ſuppoſing it to be the will of God firſt.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwere."/> To this I Anſwere. True, if this were the caſe, then were there no exception to be taken againſt the thing it ſelfe, but onely againſt the methodicall proceeding of the <hi>Conſtitution,</hi> promiſcuouſly im<g ref="char:EOLhyphen"/>poſing things of meere indifferencie, with things of abſolute <hi>neceſſity.</hi> But it hath not yet bin proved, that this <hi>worſhip</hi> hath any other Mo<g ref="char:EOLhyphen"/>ther, but either the <hi>Conſtitutions</hi> or <hi>Cuſtomes</hi> of men; the Word of <hi>God,</hi> or <hi>Morall Law</hi> cannot yet be compelled to owne, or to acknowledge it; ſo then it being the Son of a ſtranger, it is not to be brought into the Temple of the <hi>Lord.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Objection."/> If it be further Objected, <hi>That this rule makes as ſtrongly againſt kneel<g ref="char:EOLhyphen"/>ing at the Communion, as againſt bowing at the name of</hi> Jeſus, <hi>becauſe it hath no other foundation, but the like Eccleſiaſticall Conſtitution.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> To this I Anſwer: No: It is farre otherwiſe in this; In the duty of receiving of the Sacrament, there is a con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urrence of ſundry ſpirituall and inward acts or duties of the ſoule, whereunto the out<g ref="char:EOLhyphen"/>ward geſture of kneeling is naturall, and ſutable, and ſufficiently licenced, and warranted in the Scripture, (though it be no where indeed determined, to be of abſolute neceſſity in the performance of the ſame. As for example, there is an act of <hi>thanksgiving,</hi> in the duty of receiving, which being a branch of <hi>prayer</hi> (largely taken) there can
+<pb n="9" facs="tcp:41163:6"/>be no outward geſture more natural and ſutable to it, then kneeling. Beſides there is an act of <hi>prayer</hi> (ſtrictly taken) &amp;c.</p>
+               <p>But there is no ſuch ſpeciall duty in hand, or performance, when the name <hi>Jeſus</hi> is mentioned: upon which this geſture of <hi>bowing</hi> ſhould be rounded, but only the duties of hearing and attending the Word of <hi>God,</hi> whereunto all other geſtures of <hi>ſtanding,</hi> or <hi>ſitting,</hi> are much more convenient, and have approbation from the Scriptures. The former of <hi>ſtanding, Nehe</hi> 8.5. <hi>Mat.</hi> 13.2. and elſewhere: the latter of <hi>ſitting, Ezek.</hi> 20.1. &amp; 33.31. <hi>Mar.</hi> 3.34. &amp;c. So that to injoyne <hi>bow<g ref="char:EOLhyphen"/>ing</hi> ſtill upon the pronunciation of the name <hi>Jeſus,</hi> in the middeſt of the Service, whether it be in the hearing of a Chapter, or Goſpell read, wherein thoſe other geſtures of <hi>ſtanding,</hi> or <hi>ſitting,</hi> are by the ſame Authority allowed: beſides that, it wants a ſpeciall foundation to build it upon; it diſſolves (for the time) thoſe other geſtures which the Scriptures allow, ſubſtituting another in their ſtead unknown to them: and further it condemnes that which it allows, by cenſuring men for <hi>ſitting,</hi> or <hi>standing,</hi> then when they have allowed both as lawfull.</p>
+            </div>
+            <div n="5" type="argument">
+               <head>ARGVMENT. 5.</head>
+               <p>
+                  <hi>THhat which (at the beſt) is a compound worſhip, to the framing and making up wherof there is a concurrence, partly of the will of God, partly of the will and wiſdome of men, is an unlawful worſhip, eſpecially when that which is from man is the form ſpirit and life of the worſhip: and that which is from God is but the materiall and leſſe principall part of it. But ſuch is this worſhip of bowing,</hi> &amp;c. Ergo</p>
+               <p>The Major I conceive needs no reliefe from any truth clearer then it ſelfe.</p>
+               <p>The Minor is thus proved. If only the outward act, the bowing of the body be from <hi>God:</hi> but the bowing of it at ſuch a time, and upon ſuch an occaſion, be from Man, then it is a compound worſhip, yea and that which is formall and principall in it is from Man, and only that which is weake and leſſe regarded is from <hi>God.</hi> But the antecedent is true, (namely) that the bowing of the body only is from <hi>God:</hi> but the bowing at ſuch a time, and upon ſuch an occaſion is from Man. Therfore the conſequence or Councluſion is true alſo, <hi>viz.</hi> That that worſhip is a mixt and compound worſhip, and that
+<pb n="10" facs="tcp:41163:7"/>which is principall and moſt eſteemed from Man, and onely the neglected and leſſe principall part of it from <hi>God:</hi> the Conſequence is evident in both the parts and members of it.</p>
+               <p n="1">1. That which hath a plurality and diverſity of ingredients in it, muſt needs be a thing compounded. And ſecondly, for the latter part of it, that which is from <hi>God</hi> (if any thing at all be in it from him (<hi>viz.</hi> the <hi>bowing of the body</hi> is but the materiall, and leſſe principall part of it: but that which is from Man, namely to do it at ſuch a time, and upon ſuch an ocaſion, is the formall and principall part of it, appeares thus: Beecauſe let the Body be bowed never ſo diligently and frequently, upon the mention of all other names of <hi>Chriſt,</hi> as <hi>Lord, Saviour,</hi> &amp;c yet this is not regarded, no more then a dead car<g ref="char:EOLhyphen"/>kaſſe when the life is departed from it; nor taken for the worſhip commanded. Therfore that which gives the life and eſſence to it, is not that which makes it an act of <hi>adoration:</hi> neither is it the exhi<g ref="char:EOLhyphen"/>biting of it, to the perſon for whom it is claimed (as pretence is made) but it is the exhibition of it, <hi>ſub tali ſigno,</hi> upon ſuch a ſound. This is that which gives it the ſpeciall nature, and makes it to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> accepted and acknowledged for the worſhip commanded. Therfore this is the life and ſoule, and all in all of this worſhip.</p>
+               <p>Now for the Minor Propoſition. That this Circumſtance or point in it, that it ſhould and muſt be given preciſely at ſuch a time, is purely from man and not from <hi>God,</hi> hath ſufficiently bin demon<g ref="char:EOLhyphen"/>ſtrated already; and the <hi>Argument</hi> that evinceth it, beyond all con<g ref="char:EOLhyphen"/>tradiction, is ſoon repeated<g ref="char:punc">▪</g> there is not the leaſt intimation from <hi>God</hi> at all in the Scripture that any thing more ſhould be done in this kind too, or upon the name <hi>Ieſus,</hi> then to any other name or title, whether of <hi>God</hi> or of <hi>Chriſt.</hi> Therfore to found an act of wor<g ref="char:EOLhyphen"/>ſhip upon the mention or ſound of the name <hi>Ieſus</hi> is purely and abſo<g ref="char:EOLhyphen"/>lutely from Man, and not from <hi>God.</hi>
+               </p>
+            </div>
+            <div n="6" type="argument">
+               <head>ARGUMENT. 6.</head>
+               <p>
+                  <hi>IT is a thing unlawfull to lay a ſtumbling blocke in the way of the weake or blind. Then it is unlawfull to require ſuch worſhip, at the mention or ſound of the name</hi> Ieſus, <hi>or to countenance any ſuch Command. But this is ſimply un<g ref="char:EOLhyphen"/>lawfull,</hi> Levit. 19.14. Ergo.</p>
+               <pb n="11" facs="tcp:41163:7"/>
+               <p>The Conſequence wilbe reduced to a lightſome truth by rea<g ref="char:EOLhyphen"/>ſoning thus, to injoyne any worſhip of <hi>God,</hi> in ſuch away or upon ſuch termes, whereby the weake and ſimple (yea and the wiſer alſo) may e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſily be inſnared, drawn and provoked, to commit Idolatry, at leaſt to commit abſurdity, and give <hi>divine worſhip,</hi> to that which is not ſuch, is an unlawfull injunction, and it is ſin to countenance it. But that injunction to <hi>bow at the name of Ieſus,</hi> is ſuch an injunction, <hi>Ergo</hi> &amp;c.</p>
+               <p>The Major I conceive is rich in evidence of cleare truth.</p>
+               <p>The Minor likewiſe is not of any difficult proofe, <hi>viz.</hi> that the injunction and practice of <hi>bowing,</hi> is in the nature of it apt to miſlead the ſimple, either into Idolatry, or abſurdity. That which directly occaſions men to worſhip thoſe who were but meere men, or to <hi>bow</hi> upon the mention of their Names, directly and in the nature of it, leads men either to commit Idolatry, or (in the beſt inter<g ref="char:EOLhyphen"/>pretation) a groſſe abſurdity in the ſervice of <hi>God.</hi> But this Com<g ref="char:EOLhyphen"/>mand and practice of <hi>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wing at the name Jeſus,</hi> directly tends to one or both of theſe. <hi>Ergo<g ref="char:punc">▪</g>
+                  </hi>
+               </p>
+               <p>The Minor is cleare becauſe the name <hi>Ieſus</hi> is a name common to others, beſides the <hi>Lord Jeſus,</hi> as to <hi>Joſua,</hi> who is called <hi>Jeſus,</hi> Heb. 4 8. And <hi>Ieſus</hi> the Son of <hi>Syrach:</hi> and <hi>Bar-Ieſus</hi> a Conjurer, Acts 13.6. Now how eaſie it is for the ſimple to miſtake one perſon for ano<g ref="char:EOLhyphen"/>ther, that goeth in the ſame name with him, without any diſtin<g ref="char:EOLhyphen"/>ction or note of difference in the ſound, none can be ignorant of.</p>
+            </div>
+            <div n="7" type="argument">
+               <head>ARGUMENT. 7.</head>
+               <p>
+                  <hi>NO outward Ceremony or act of worſhip that tends to the prejudice, and interruption of the worſhip and ſervice of God, which is more inward and ſpirituall is to be received and yeelded unto. But ſuch is the practiſe of</hi> bowing at the name of Jeſus. <hi>Ergo.</hi>
+               </p>
+               <p>The Major Propoſition is evident: becauſe duties of inferiour nature and conſequence, when greater are in place, and cannot be performed in their due manner; when theſe are thruſt upon them, are no duties in ſuch a caſe: but all their obligatory vertue and power is ſuſpended for that time.</p>
+               <p>And for the other Propoſition, <hi>that bowing at the name of Ieſus is
+<pb n="12" facs="tcp:41163:8"/>ſuch a worſhip, or outward act, that cannot ſtand with the due performance of that which is greater, and more ſpirituall,</hi> it is clearly demonſtrable from hence: Becauſe attentive hearing and minding the Word of <hi>God,</hi> either read or preached, is ſuch a duty, that cannot but be interrup<g ref="char:EOLhyphen"/>ted, and ſuffer diſtraction and diverſion of the <hi>mind,</hi> if the other duty of <hi>bowing</hi> be attended alſo. The <hi>mind</hi> of man finds a marvelous dif<g ref="char:EOLhyphen"/>ficulty and inſufficiency in it ſelfe, to give that diligent and deep <hi>intention</hi> to the Word of <hi>God,</hi> which belongs to it, when it hath its full ſtrength intire, and unbroken with any other collaterall occa<g ref="char:EOLhyphen"/>ſions, when it is in the greateſt freedome that may be from all other thoughts. <hi>Ergo,</hi> If it ſhalbe burdened in the time of hearing with the care and purpoſe of <hi>bowing,</hi> when ſuch a word or ſound comes forth, this cannot but much break and weaken the <hi>intenti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> of it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Objection."/> If it be ſaid: <hi>But there is no neceſſity of thinking of bowing till the time come, and the name be in the Eare.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> I Anſwer, he that really and ſeriouſly intends to <hi>bow</hi> when the ſound comes, can hardly forbeare thinking of it againe and againe before hand, and will have much adoe to keep the ſound out of his <hi>imagination,</hi> before it comes at his Eare. Let any man make a narrow experiment in himſelfe, and ingenuouſly confeſſe what he finds, I make no doubt but his confeſſion hath been already drawn to his hands in this Argument.</p>
+            </div>
+            <div n="8" type="argument">
+               <head>ARGUMENT. 8.</head>
+               <p>
+                  <hi>THat worſhip which intends to exalt one name of God, or of Chriſt before others; and to bring all the reſt into contempt, is at no hand to be condeſcended unto. But ſuch is this bowing worſhip at the name of</hi> Jeſus, <hi>it tends to magnifie one name of</hi> Chriſt, <hi>with the diſparagement of all the reſt.</hi> Ergo.</p>
+               <p>The Major I take for granted: Becauſe whatſoever reflects pre<g ref="char:EOLhyphen"/>judice upon any of the great and ſacred names and titles of <hi>God</hi> upon any pretence whatſoever, is not to be indured.</p>
+               <p>The Minor is thus confirmed, becauſe this name only being judged a fit medium of conveying a ſpeciall honour, or ſervice to <hi>Chriſt:</hi> and others not thought worthy of ſuch an office or imploy<g ref="char:EOLhyphen"/>ment,
+<pb n="13" facs="tcp:41163:8"/>this muſt needs turne to a reproch unto them that they ſhall all be defective this way in compariſon of this one.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> Neither is it any part of ſatisfaction to ſay, <hi>That it is not denyed unto the reſt, men may doe the ſame reverence upon the mention of any other name.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Aſwere."/> To this I Anſwere, That it manifeſtly argues a comparative con<g ref="char:EOLhyphen"/>tempt, when there is honour and reverence, ſetled upon one by a Law, and men ſet at liberty to deale with the reſt, as they pleaſe: It is a ſigne that the Law-makers take not much care what becomes of the reſt, ſo the name they have fancied may be exalted, that their fancy likewiſe may be exalted with it.</p>
+               <p>Secondly, If this <hi>knee-ſervice</hi> were done upon the mention of every name or title of <hi>Chriſt</hi> beſides, ſomtimes it might ſo fall out, <hi>(viz.)</hi> when ſuch names come, many, or very oft together, that it may make the body of the Service ridiculous, and a good part of it a little better then a meere diſtraction. <hi>Ergo,</hi> The liberty that is left to men in this caſe, doth not eaſe the buſineſſe at all: becauſe if it be taken in the way, by which it is intended that the other names of <hi>Chriſt</hi> ſhalbe brought to an equality of honour with that of <hi>Ieſus;</hi> the truth is it wilbe ſo farre from doing this, that it will bring them al<g ref="char:EOLhyphen"/>together, one and other without exception into contempt.</p>
+            </div>
+            <div n="9" type="argument">
+               <head>ARGUMENT. 9.</head>
+               <p>
+                  <hi>THat worſhip of Chriſt which reflects diſparagement upon the other two perſons, as though they were inferiour to him, and worthy of leſſe honour is at no hand to be allowed.</hi>
+               </p>
+               <p>
+                  <hi>But this worſhip is ſuch a worſhip, injoyned only to the ſe<g ref="char:EOLhyphen"/>cond perſon.</hi>
+               </p>
+               <p>It is true, <hi>God</hi> hath given all the honour and dignity unto <hi>Chriſt,</hi> whereof he now ſtands poffeſſed, as Mediator, to this end, that all men ſhould honour the Son, as they honour the Father, <hi>Io.</hi> 5.23. but that men ſhould honour him above the Father, or with any ſuch worſhip wherewith the Father is not honoured: there is no Scrip<g ref="char:EOLhyphen"/>ture will beare it, nor the analogy of Faith indure it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> If it be replyed and ſaid: <hi>That the ſame honour may be exhibited to the
+<pb n="14" facs="tcp:41163:9"/>other perſons, when men will, they are not reſtrained in this caſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> To this I Anſwere (in effect as before) this liberty left unto men doth no way juſtifie the command, by which the ſpeciall and peculiar worſhip to the ſecond Perſon is injoyned; the other two Perſons be<g ref="char:EOLhyphen"/>ing paſſed over, it provides no ſuch worſhip, either for the Father, or for the Holy-Ghoſt; it gives men liberty aſwell to deprive them of it, as to referre it unto them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Objection."/> Neither is it of any greater value to ſay and pretend, <hi>That in bow<g ref="char:EOLhyphen"/>ing to Chriſt we bow to the whole Trinity in him, and that it is no more a diſparagement to the other Perſons to referre a ſpeciall honour upon Chriſt (ſo they be not excluded in it) then for a man to direct his prayers unto any one of the Perſons alone, which is no diſparagement or neglect of the other, if he doe not exclude them? though he addreſſeth himſelfe actually to one onely in prayer.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> To this the reply is, That the caſe is altogether unlike, becauſe firſt, though it be lawfull at any time to direct a mans prayer to any one of the three Perſons (but ſuppoſing the other two not excluded, though they be not actually intended) yet is there ſtrict proviſion made in the Scripture, and command given for the ſame divine wor<g ref="char:EOLhyphen"/>ſhip, to be exhibited to them all, whereas the worſhip of <hi>bowing</hi> is by the Commandement ſetled only upon the ſecond Perſon, and not ſo much as the leaſt mention made of either of the other, as having any right to communicate in the ſame worſhip with him.</p>
+               <p>Secondly, a man directing his prayers at one time, to one of the Perſons in particular, may at another time direct it to another, and the third time to a third; and ſo the equality of the Perſons is fully acknowledged. But in the command, and tender of this <hi>knee-worſhip,</hi> a man is ſent with it onely to the Son; neither will it ſerve or be accepted to tender this honour to the Son, in the Father, or in the Holy-Ghoſt (as in prayer it is accepted with <hi>God</hi>) but it will ſuffice in this <hi>knee-worſhip,</hi> that the Father and Holy Ghoſt be wor<g ref="char:EOLhyphen"/>ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pped in the Son; yea if they be not worſhipped, it will ſerve alſo: by which it appeares evidently, that there is a wide difference be<g ref="char:EOLhyphen"/>tween the one and the other.</p>
+               <p>Thirdly, if the Scripture had limited, or reſtrained the duty or worſhip of <hi>prayer,</hi> to one of the Perſons onely limited, I meane in ſuch a ſenſe that it had mentioned only this one Perſon, as capable of this worſhip, and had given no intimation of the like capacity in the other two (though it had not expreſly excepted againſt them in this behalfe) it is evident, that it had eſtabliſhed, or at leaſt ſtrongly intimated an inequality between the Perſons, and given a prehemi<g ref="char:EOLhyphen"/>nence
+<pb n="7" facs="tcp:41163:9"/>to the one above the other two. This is the very caſe of this Precept for <hi>bowing at the Name Ieſus,</hi> there is a full eſtabliſhment of a capacity of this worſhip in the ſecond Perſon: but there is not the leaſt intimation given of the like capacity in either of the other. <hi>Ergo,</hi> It directly tends to ſet up a conceipt of an unequality between the perſons in the minds of men, and therfore it is not to be aſſen<g ref="char:EOLhyphen"/>ted unto.</p>
+            </div>
+            <div n="10" type="argument">
+               <head>ARGVMENT 10.</head>
+               <p>
+                  <hi>NO outward worſhip or ſervice of God, that can have no other reaſonable end, but only to intrappe and inſnare the faithfull ſervants of God, is not to be indured: But ſuch is this bowing worſhip.</hi> Ergo.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Object."/> But if it be here excepted and ſaid, <hi>It ſerves to teſtifie the inward re<g ref="char:EOLhyphen"/>verence of the heart, and the frame of the ſoule how it ſtands affected to the Lord Ieſus; and what can be a more reall end.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwere."/> Firſt, to this I Anſwer, it is commanded to be done, whether the heart be inwardly <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <hi>God</hi> or no<g ref="char:punc">▪</g> ſo that if that be the intent of it, to expreſſe the inward <hi>reverence</hi> of the ſoule to <hi>Chriſt:</hi> Then is the commanding of it a ſnare unto men, to intangle them with the ſigne of <hi>hypocriſie,</hi> becauſe it is not in any mans power to have his <hi>heart</hi> inw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rly affected when he pleaſeth. But the command of <hi>bowing,</hi> in<g ref="char:EOLhyphen"/>joy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es him to the <hi>outward <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orſhip,</hi> whether he find his <hi>heart</hi> inward<g ref="char:EOLhyphen"/>ly affected yea or no Now to compell a man to make profeſſion of ſome good which is not in truth in him, what is this but to com<g ref="char:EOLhyphen"/>mand diſſimulation: and for the greateſt part of thoſe that are moſt taken with, and moſt pliable to this poſture, it is more then aparent, that for any inward ſoule reverence to <hi>Chriſt,</hi> they have little to doe with it: So that to command all without exception to doe it, there is no interpretation to ſalve it, but that it is to com<g ref="char:EOLhyphen"/>mand the greateſt part of thoſe to whom it is injoyned to profeſſe that outwardly, which they are not within, which in plain ſpeaking is groſſe diſſimulation.</p>
+               <p n="2">2. If it be the proper end and intent of this Ceremoniall wor<g ref="char:EOLhyphen"/>ſhip, to teſtifie the inward <hi>reverence</hi> of the <hi>ſoule</hi> to <hi>Christ,</hi> then ſhould it rather be commanded to be done at ſuch times indefinitely, when a man finds the impreſſion of ſuch a reverence upon his <hi>spirit;</hi> and
+<pb n="10" facs="tcp:41163:10"/>not determinately when ever he heares the ſound of the Name <hi>Ieſus, Out of the aboundance of the heart the mouth ſpeaketh:</hi> and ſo it is fitteſt for all the body to ſpeake, and not when the <hi>heart</hi> is empty.</p>
+               <p n="3">3. If a definite time be fit to he appointed, when men ſhall bow their <hi>bodies</hi> to <hi>Chriſt,</hi> in token of their inward <hi>reverence,</hi> it ſhould ra<g ref="char:EOLhyphen"/>ther be when ſome of thoſe great things he hath done for us were mentioned, then, when only this bare name is recited: becauſe there is not ſo much in the bare Name, which is ſcarſely herd to affect the <hi>heart</hi> towards him, as when that <hi>goodneſſe</hi> and <hi>mercy</hi> which is ſeen in that great <hi>ſalvation</hi> he hath purchaſed for us, is diſplayed before our eyes.</p>
+               <p n="4">4. Laſtly, it is a thing altogether unreaſonable, when things that are ſtronger, and more <hi>ſpirituall</hi> are in place, eſpecially when that which is a more full, and more genuine <hi>exerciſe</hi> muſt give place for a time, to make way for that which is <hi>inferiour</hi> to it.</p>
+               <p>But reverence in attention to the Word of <hi>God</hi> and <hi>Chriſt</hi> is doubt<g ref="char:EOLhyphen"/>leſſe a greater and fuller <hi>exerciſe,</hi> and <hi>testimony</hi> of greater <hi>inward re<g ref="char:EOLhyphen"/>verence</hi> of the <hi>heart,</hi> then <hi>bowing at the name of Ieſus</hi> is: The Sould<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers that put <hi>him</hi> to death bowed the knee to <hi>him</hi> in deriſion: but for out<g ref="char:EOLhyphen"/>ward reverence in <hi>hearing</hi> the <hi>Scriptures,</hi> though it may be taken up by thoſe that have no true love to <hi>God,</hi> or his Word, yet <hi>God</hi> himſelf gives teſtimony of it, as a ſeemly behaviour well becoming his peo<g ref="char:EOLhyphen"/>ple, <hi>Ezek.</hi> 32. <hi>Ergo,</hi> For a man to break off and interrupt a more ſo<g ref="char:EOLhyphen"/>lemn <hi>exerciſe</hi> to <hi>Chriſt,</hi> which reverent <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in a reverent attention to his Word, whether it be <hi>ſitting,</hi> or <hi>ſtanding,</hi> onely to in<g ref="char:EOLhyphen"/>troduce a heterogenity, &amp; leſſe pertinent <hi>exerciſe</hi> in <hi>bowing,</hi> I conceive is not that reaſonable ſervice of <hi>God,</hi> which the <hi>Scriptures</hi> call for, and require at every mans hands.</p>
+            </div>
+            <div n="11" type="argument">
+               <head>ARGUMENT. 11.</head>
+               <p>
+                  <hi>THat worſhip which neither the Law of God nor the Law of Man, nor the Church whereof we are members, impo<g ref="char:EOLhyphen"/>ſes; ought not to be aſſented unto, or entertained. But ſuch is this bowing it is neither commanded in this caſe by the Law of God, neither is there any Canon, or Conſtitution of the Church.</hi> Ergo, &amp;c.</p>
+               <p>The Major is without exception.</p>
+               <pb n="11" facs="tcp:41163:10"/>
+               <p>As for the Minor, <hi>That this worſhip is not commanded by the Law of God,</hi> it hath been ſufficiently declared already. For the latter member of it (that <hi>it is not commanded by any canon or Conſtitution of the Church,</hi> may thus appeare, if not by the 18. Canon, then not at all. But that it is not commanded by the 18. Canon, Theſe conſiderations make it every whit aſmuch, if not more then) probable.</p>
+               <p n="1">1. That worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p or reverence here adviſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d or called for, is only ſuch a worſhip or reverence as is due, for that is the firſt and prin<g ref="char:EOLhyphen"/>cipall qualification of it, by which the other two, (us and all) muſt be interpreted. Now the rule in Law is, <hi>That is due which is required by the Law of God.</hi> But ſuch reverence or worſhip of <hi>Chriſt,</hi> which the Law of <hi>God</hi> doth not require, is not that worſhip which the Canon adviſeth unto. But now as concerning the bowing worſhip or reve<g ref="char:EOLhyphen"/>rence in this caſe, it hath bin often proved, to have bin no where required by the Law of <hi>God.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Objection."/> If it be Objected, <hi>That the word due may have reference to ſome former Law or Conſtituteon of the Church, aſwell as to the Law of God, in reſpect whereof it may be called due.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> I Anſwere. Firſt, that this being left doubtfull, and undetermi<g ref="char:EOLhyphen"/>ned in the Canon, whether it be ſuch a worſhip as is due by the Law of <hi>God,</hi> or by the Law of the Church, then the interpretation of the Canon, is not to be left too or made by any one man or more: but by a Convocation of the Clergy, under the broad Seale, as is expreſ<g ref="char:EOLhyphen"/>ly injoyned by his Majeſties Declaration, prefixed before the laſt Impreſſion, in the Book of the (39.) Articles of Religion. <hi>(Ergo)</hi> as yet till the Canon be made to ſpeak more plaine by this Autho<g ref="char:EOLhyphen"/>rity, there is no Authority ſufficiently peremptory to impoſe any ſuch worſhip, by vertue of the Canon.</p>
+               <p>But Secondly, ſuppoſe it be granted that the word <hi>due,</hi> hath, or may have reference to ſome former Conſtitution of the Church; yet till ſuch a Canon be produced, which hitherto hath not been, neither ever will, or can be, where this reverence of bowing the body or knee, preciſely, or determinately is injoyned; till then there is nothing to be had out of the Canon for bowing.</p>
+               <p n="2">2. That reverence to <hi>Chriſt</hi> the Canon adviſeth unto, is only ſuch a reverence as hath bin accuſtomed. Now to what cuſtome this word referreth there is nothing determined of it, it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not in any probability but that it is either to the Church of <hi>God</hi> in generall, or to the cuſtome of the Church of <hi>God</hi> in <hi>England;</hi> as for what hath bin accuſtomed in the Church m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lignant, of Popery I preſume, the Canon looks not after it. Now that it hath neither bin the Cuſtome of the Church Catholicke; nor the cuſtome of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to bow ſtill <hi>at the name of Ieſus:</hi> I know no Authenticke Author
+<pb n="14" facs="tcp:41163:11"/>that can teſtifie; as for the practiſe of ſome particular, either place, or perſon, it will not amount to make that which is properly called a Cuſtome.</p>
+               <p n="3">3. But if the words of the Canon (Due, lowly, and Cuſtomed) be underſtood, of any humble deportment, and reverent Compoſure of the outward man, in the hearing of the word of <hi>Chriſt;</hi> then will the ſence be more expedient and cleare, then wilbe found in any other interpretation; for ſuah a reverence is, (firſt) apparently Due, from the Word of <hi>God,</hi> and his Law, and the Law of the Church. And (Se<g ref="char:EOLhyphen"/>condly) it is, lowly, the body every way framed to the humble de<g ref="char:EOLhyphen"/>portment of the ſoule. (Thirdly) ſuch a reverence hath bin ſtill accuſtomed, and is ſtill the cuſtome of all the true Servants of <hi>God,</hi> both in <hi>England</hi> and elſwhere: thoſe Three qualifications of (Due, Lowly, and Reverend) will never be made ſo really, and ſo generally into the worſhip of <hi>bowing,</hi> as they doe to that reverent and humble attention of hearing the word of <hi>God,</hi> and this is moſt plyable to the meaning of the Canon.</p>
+               <p n="4">4 Nothing is injoyned in this Canon, that is not preſcribed nor mentioned in the Book of Common Prayer: and it is evident from hence, becauſe in the Act of Conformity prefixed, before the Book, if there be any other Ceremony in the ſervice of <hi>God,</hi> it is prohibited under the penalty: but for the Ceremony of <hi>bowing at the name of Ieſus,</hi> the Book of Common Prayer no where mentions. <hi>(Ergo)</hi> it is not likely to be injoyned, or if that be granted, then the Book of Common Prayer will fall heavy upon him, that ſhall obſerve the Canon: on the other ſide, the Canon will condemn him that ſhall obſerve the Book of Common Prayer.</p>
+               <p n="5">5. His Majeſties ſpeciall Command and pleaſure is in the former Declaration, that the literall and Grammaticall ſence ſhall ſtill be taken, and no other; But now if the Canon have no other Midwife, but the literall and Grammaticall ſence, it will never be delivered of this <hi>bowing worſhip, at the name of Ieſus.</hi> If the canon were exactly tranſlated, into all languages, and ſuit made to the beſt Grammari<g ref="char:EOLhyphen"/>ans of all Nations, to give the literall ſence of it, it is not to be con<g ref="char:EOLhyphen"/>ceived, that any one of them would ever find, that bowing the body at the ſound of the name <hi>Ieſus,</hi> would ever to be meant by it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41163:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
